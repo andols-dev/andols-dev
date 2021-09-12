@@ -25,7 +25,7 @@
 <br/>
 
 
-<a href="https://github.com/andols-dev">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andols-dev&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andols-dev&theme=buefy&layout=compact" />
-</a>
+
