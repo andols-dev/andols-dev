@@ -3,8 +3,8 @@
 <p>
 My name is Andreas and I have a great interest in web development and my dream is to work with Full Stack Development.
 For the past 5 years, I have developed my knowledge daily in
-web development in my spare time. I started by learning html, css and javascript and to 
-build responsive websites. Then I continued to learn JavaScript and React.
+web development in my spare time. I started by learning html, css and JavaScript and to 
+build responsive websites. Then I continued to learn React.
 After completing training in system development in C# .Net at Lexicon in Linköping I have continued to develop my knowledge in C# and .Net Core MVC and i have also learned Python and Django.
 </p>
 <h3>🔧 &nbsp;Tech Stack</h3>
