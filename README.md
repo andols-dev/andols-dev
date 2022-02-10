@@ -1,4 +1,4 @@
-I have a great interest in building web sites with Django and Python.
+I have a great interest in Web Development.
 
 <h3>🔧 &nbsp;Tech Stack</h3>
   
