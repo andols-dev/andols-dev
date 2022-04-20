@@ -1,4 +1,4 @@
-My name is Andreas and I have a great interest in web development and my dream is to work with Full Stack Development.
+My name is Andreas and I have a great interest in web development.
 
 <h3>🔧 &nbsp;Tech Stack</h3>
   
