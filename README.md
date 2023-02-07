@@ -1,4 +1,4 @@
-Hi 👋 My name is Anreas
+Hi 👋 My name is Andreas
 =======================
 
 My name is Andreas and I'am a junior Fullstack Developer. I started by learning HTML, CSS and JavaScript and to build responsive websites. Then I continued to learn React. After completing training in system development in C# .Net at Lexicon in Linköping I have continued to develop my knowledge in C# and .Net Core MVC and I have also learned Python and Django.
