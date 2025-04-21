@@ -1,7 +1,7 @@
 Hi 👋 My name is Andreas
 ========================
 
-I enjoy programming
+I enjoy building apps.
 ------------------------------------
 
 
